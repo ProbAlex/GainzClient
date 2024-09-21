@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "best.leafyalex.gainzclient.mixins",
+  "refmap": "mixins.gainzclient.refmap.json",
+  "mixins": [
+    "MixinModList",
+    "MixinEffectRenderer"
+  ],
+  "verbose": true
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "chromehud",
+        "name": "GainzClient",
+        "description": "Something to do with hypixel i assume",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "leafy_alex2"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
